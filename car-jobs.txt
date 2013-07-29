@@ -3,3 +3,6 @@ insure car
 sell car
 la la la
 do be do be do
+find car
+steal car
+crash car
