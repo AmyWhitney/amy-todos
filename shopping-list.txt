@@ -3,11 +3,13 @@ cheese
 milk
 food
 yogurt
-la la la
-la la la
-la la la
-la la la
-la la la
+
+da da du da da da
+du da da da
+du
+da da da
+da da
+
 pen
 paper
 ruler
