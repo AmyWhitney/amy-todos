@@ -1,7 +1,4 @@
 buy car
 insure car
 sell car
-numver
-tax car
-
-
+la la la
